@@ -1,21 +1,22 @@
 
 
-# Vite-React-TailwindCSS <span align="center">   <img src="vitelogo.svg" alt="Vite Logo" width="60"/> ➕   <img src="react.svg" alt="React Logo" width="70"/> ➕   <img src="tailwind.svg" alt="Tailwind CSS Logo" width="85"/></span> ➕   <img src="tailwind.svg" alt="Tailwind CSS Logo" width="85"/></span>
-Boilerplate Repo for setting up a Vite - React - TailwindCSS Project
-Boilerplate Repo for setting up a Vite - React - TailwindCSS Project
+# Vite-React-TailwindCSS-GSAP <span align="center">   <img src="vitelogo.svg" alt="Vite Logo" width="60"/> ➕   <img src="react.svg" alt="React Logo" width="70"/> ➕   <img src="tailwind.svg" alt="Tailwind CSS Logo" width="85"/></span> ➕   <img src="gsap-greensock.svg" alt="GSAP Logo" width="65"/></span>
+### Boilerplate Repo for setting up a Vite - React - TailwindCSS - GSAP Project - ready for github pages deployment
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://jason-black.github.io/Vite-Tailwind-React-Portfolio2/)
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://jason-black.github.io/Vite-Tailwind-React-GSAP-BoilerPlate/)
 
 ## Live Demo
 
-🚀 **[Check out the live site here!](https://jason-black.github.io/Vite-Tailwind-React-Portfolio2/)**
+🚀 **[Check out the live site here!](https://jason-black.github.io/Vite-Tailwind-React-GSAP-BoilerPlate/)**
 
 
 ## 🌟 Features
 
 - <img src="vitelogo.svg" alt="Vite Logo" width="20"/> **Powered by Vite**: Enjoy instant HMR, fast builds, and a modern development environment.
-- <img src="react.svg" alt="Vite Logo" width="20"/> **Built with React**: Utilize React's powerful component-based architecture to create dynamic and interactive user interfaces.
--  <img src="tailwind.svg" alt="Vite Logo" width="20"/> **Styled with Tailwind CSS**: Design responsive and highly customizable layouts quickly with utility-first CSS classes.
+- <img src="react.svg" alt="React Logo" width="20"/> **Built with React**: Utilize React's powerful component-based architecture to create dynamic and interactive user interfaces.
+-  <img src="tailwind.svg" alt="Tailwind Logo" width="20"/> **Styled with Tailwind CSS**: Design responsive and highly customizable layouts quickly with utility-first CSS classes.
+-  <img src="gsap-greenstock.svg" alt="GSAP Logo" width="20"/> **Animated by GSAP**: Epic animations quickly!
 
   
 - 📱 **Responsive Design**: Adapts seamlessly across all devices.
