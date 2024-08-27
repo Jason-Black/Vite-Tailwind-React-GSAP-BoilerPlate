@@ -39,11 +39,12 @@
 This project is a login page template built with HTML, CSS, and Vanilla JavaScript. It features a video background and is powered by Vite for fast development and building.
 
 
-#### build read me code please ignore
+
 
 
 <p align="center">
   <img src="vitelogo.svg" alt="Vite Logo" width="50"/> ➕ 
   <img src="react.svg" alt="React Logo" width="50"/> ➕ 
-  <img src="tailwind.svg" alt="Tailwind CSS Logo" width="50"/>
+  <img src="tailwind.svg" alt="Tailwind CSS Logo" width="50"/> ➕
+  <img src="gsap-greensock.svg" alt="Vite Logo" width="50"/>
 </p>
