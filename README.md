@@ -16,7 +16,7 @@
 - <img src="vitelogo.svg" alt="Vite Logo" width="20"/> **Powered by Vite**: Enjoy instant HMR, fast builds, and a modern development environment.
 - <img src="react.svg" alt="React Logo" width="20"/> **Built with React**: Utilize React's powerful component-based architecture to create dynamic and interactive user interfaces.
 -  <img src="tailwind.svg" alt="Tailwind Logo" width="20"/> **Styled with Tailwind CSS**: Design responsive and highly customizable layouts quickly with utility-first CSS classes.
--  <img src="gsap-greenstock.svg" alt="GSAP Logo" width="20"/> **Animated by GSAP**: Epic animations quickly!
+-  <img src="gsap-greensock.svg" alt="GSAP Logo" width="20"/> **Animated by GSAP**: Epic animations quickly!
 
   
 - 📱 **Responsive Design**: Adapts seamlessly across all devices.
